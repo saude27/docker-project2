@@ -1,3 +1,5 @@
+![Alt text](/Rentzone-ref-ach.png)
+
 # AWS Dockerized Web App Deployment
 
 This project demonstrates the setup and deployment of a dynamic web application on AWS using Docker, Amazon Elastic Container Registry (ECR), and Amazon Elastic Container Service (ECS). The deployment leverages a three-tier architecture for scalability, security, and maintainability.
